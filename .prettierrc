@@ -1,0 +1,6 @@
+{
+    "plugins": ["prettier-plugin-tailwindcss","prettier-plugin-blade"],
+    "proseWrap": "never",
+    "printWidth": 9999,
+    "tabWidth": 4
+}
